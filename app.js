@@ -38,7 +38,7 @@ allFoods = console.log('Exercise 9 result:', foods.join('->'));
 
 //ex 10 
 
-hasSoup = console.log(foods.includes('Soup'))
+hasSoup = foods.includes('Soup')
 console.log('Exercise 10 result:', hasSoup);
 
 // ex 11 
